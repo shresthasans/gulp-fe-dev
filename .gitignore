@@ -31,8 +31,6 @@ Temporary Items
 # Project files
 
 /node_modules/*
-/dist/*
-/dev/*
 package.json
 **/*.log*
 .Trashes
