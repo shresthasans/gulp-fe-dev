@@ -31,8 +31,8 @@ Temporary Items
 # Project files
 
 /node_modules/*
-package.json
 **/*.log*
 .Trashes
 .jshintrc
-gulpfile.js
+package-lock.json
+/output
